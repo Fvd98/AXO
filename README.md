@@ -9,4 +9,4 @@ I'm very pleased of the result of our efforts!
 The trailer of the game can be seen here: 
 https://www.youtube.com/watch?v=H18mm50qoBc
 
-I'll upload only the files that I either had major impact on or deigned entirely for portfolio purposes.
+I'll upload only the files that I either had major impact on or designed entirely for portfolio purposes.
